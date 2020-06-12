@@ -1,0 +1,130 @@
+#box {
+    width: 400px;
+    height: 810px;
+    background-color: black;
+    margin: calc((20vh - 15vh - 10px * 2) / 2) auto;
+    border-radius: 10px;
+    background-size: cover;
+}
+
+.img-box {
+    width: 350px;
+    height: 750px;
+    background-image: url(../img/IMG_7610.PNG);
+    margin-left:  25px;
+    border-radius: 10px;
+    background-size: cover;
+}
+
+.img-lock {
+    width: 350px;
+    height: 750px;
+    background-color: white;
+    margin-left:  25px;
+    border-radius: 10px;
+    background-size: cover;
+}
+
+
+.img-circle {
+    width: 7vh;
+    height: 7vh;
+    background-color: #9e9e9e80;
+    background-size: cover;
+    border-radius: 25%;
+    background-position-x: -58px;
+    display: inline-block;
+}
+
+.img-fb {
+    background-image: url(../img/1.PNG);
+}
+
+.img-mail {
+    background-image: url(../img/2.PNG);
+}
+
+.img-utube {
+    background-image: url(../img/3.PNG);
+}
+
+.img-shopy {
+    background-image: url(../img/4.PNG);
+}
+
+.img-drive {
+    background-image: url(../img/5.PNG);
+}
+
+.img-app {
+    background-image: url(../img/6.PNG);
+}
+
+.img-comic {
+    background-image: url(../img/7.PNG);
+}
+
+.img-trans {
+    background-image: url(../img/8.PNG);
+}
+
+.img-insta {
+    background-image: url(../img/instagram.PNG);
+}
+
+.img-message {
+    background-image: url(../img/message.PNG);
+}
+
+.img-phone {
+    background-image: url(../img/phone.PNG);
+}
+
+.img-safari {
+    background-image: url(../img/safari.PNG);
+}
+
+.separate {
+    display: inline-block;
+    width: 21.8px;
+}
+
+.link {
+    width: 100%;
+    height: 100%;
+    display: block;
+    border-radius: 25%;
+}
+
+.lock {
+    width: 100%;
+    height: 100%;
+    display: block;
+    border-radius: 10px;
+}
+
+.border {
+    display: inline-block;
+    width: 20px;
+}
+
+.space {
+    display: inline-block;
+    width: 350px;
+    height: 50px;
+}
+
+.camera {
+    display: inline-block;
+    background: white;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    margin-left: 150px;
+}
+
+
+.head {
+    display: inline-block;
+    margin: 10px;
+}
